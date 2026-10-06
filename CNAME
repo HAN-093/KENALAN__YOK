@@ -1,1 +1,8 @@
-hanz_932.my.id
+{
+  "owner": {
+    "username": "IG-hanz-932"
+  },
+  "records": {
+    "CNAME": "ig-hanz-932.github.io"
+  }
+}
